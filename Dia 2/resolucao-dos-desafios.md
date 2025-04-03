@@ -40,7 +40,7 @@
 ### Resolução do Desafio
 
     CATEGORIA = String
-    ESTADO_PRODUTO = String
+    ESTADO_PRODUTO = String/Boolean
     QUANTIDADE_VENDAS = Int
     FAVORITO = Boolean
     NOME_PRODUTO = String
