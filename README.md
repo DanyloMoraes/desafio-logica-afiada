@@ -5,3 +5,13 @@
 **Dia 1** - A Lógica de Programação e Como Usamos Ela Todos os Dias
 
 Neste primeiro dia, foi proposta a criação de três algoritmos que utilizamos no dia a dia, como: um algoritmo para a rotina após acordarmos, um algoritmo de uma receita favorita com no mínimo 20 linhas e um algoritmo para uma lista de tarefas diárias.
+
+**Dia 2** - Tudo na Vida são Dados
+
+No segundo dia, exploramos os diferentes tipos de dados. No primeiro desafio, precisávamos classificar os tipos de dados presentes em nosso RG ou CPF.
+
+No segundo desafio, realizamos a mesma tarefa, mas desta vez utilizando como exemplo um formulário de atualização cadastral da Caixa em PDF ([Link do formulário](https://www.caixa.gov.br/Downloads/PDF_formulario_para_atualizacao_de_cadastro_P_B.pdf)).
+
+No terceiro desafio, extraímos o máximo de informações possíveis sobre os tipos de dados utilizados em uma página de produto do **Mercado Livre**. O item escolhido como exemplo foi um **iPhone 14 Plus**.
+
+Por fim, no quarto desafio, desenvolvemos uma "**Calculadora de IMC**" utilizando **JavaScript**. Informávamos nosso peso e altura, e o programa calculava e exibia o resultado do IMC (Índice de Massa Corporal).
