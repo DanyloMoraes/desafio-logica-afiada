@@ -45,7 +45,7 @@
     FAVORITO = Boolean
     NOME_PRODUTO = String
     AVALIAÇÃO = Float
-    QUANTIDADE = Int
+    QUANTIDADE_AVALIAÇÃO = Int
     PREÇO_PRODUTO = Float
     DESCONTO_PIX = Int
     QUANTIDADE_PARCELAS = Int
