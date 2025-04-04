@@ -60,8 +60,6 @@
 
 ### Resolução do Desafio
 
-O resultado também pode ser visto no website da [PlayCode](https://playcode.io/2322971).
-
 ```js
 // Cálculo do IMC
 
