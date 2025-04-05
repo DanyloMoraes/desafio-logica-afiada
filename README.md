@@ -21,3 +21,9 @@ Por fim, no quarto desafio, desenvolvemos uma "**Calculadora de IMC**" utilizand
 No terceiro dia, enfrentamos desafios utilizando os operadores básicos: adição, subtração, multiplicação, divisão, módulo e exponenciação. 
 
 Também resolvemos exercícios um pouco mais complexos, que exigiam raciocínio lógico, como a "Calculadora de IMC (Índice de Massa Corporal)" e o cálculo de "Quantos litros de combustível e qual o valor necessário para completar uma viagem".
+
+**Dia 4** - Tomando Decisões com Estrutura de Controle Condicional
+
+Chegamos ao quarto dia com uma série de desafios interessantes. Tivemos que calcular a validade de uma carteira de motorista, verificar a nota de um aluno e retornar sua performance após a prova — tudo isso utilizando a condição ternária, uma alternativa mais simples e concisa ao tradicional if/else. No desafio seguinte, empregamos o comando switch para lidar com os diferentes estados de uma cancela de estacionamento.
+
+Por fim, desenvolvemos um código de ponto de venda, no qual foi necessário imprimir o valor final de um produto após a aplicação do desconto.
