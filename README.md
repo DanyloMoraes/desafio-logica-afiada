@@ -15,3 +15,9 @@ No segundo desafio, realizamos a mesma tarefa, mas desta vez utilizando como exe
 No terceiro desafio, extraímos o máximo de informações possíveis sobre os tipos de dados utilizados em uma página de produto do **Mercado Livre**. O item escolhido como exemplo foi um **iPhone 14 Plus**.
 
 Por fim, no quarto desafio, desenvolvemos uma "**Calculadora de IMC**" utilizando **JavaScript**. Informávamos nosso peso e altura, e o programa calculava e exibia o resultado do IMC (Índice de Massa Corporal).
+
+**Dia 3** - Aprenda a Usar os Operadores
+
+No terceiro dia, enfrentamos desafios utilizando os operadores básicos: adição, subtração, multiplicação, divisão, módulo e exponenciação. 
+
+Também resolvemos exercícios um pouco mais complexos, que exigiam raciocínio lógico, como a "Calculadora de IMC (Índice de Massa Corporal)" e o cálculo de "Quantos litros de combustível e qual o valor necessário para completar uma viagem".
