@@ -30,7 +30,7 @@ if (primeiraHabilitacao) {
 console.log("A validade da sua Carteira Nacional de Habilitação (CNH) é de " + validade);
 ```
 
-![Imagem que mostra a execução do código com a verificação da idade e primeira habilitação"](../img/habilitacao.JPG)
+!["Imagem que mostra a execução do código com a verificação da idade e primeira habilitação"](../img/habilitacao.JPG)
 
 ## DESAFIO 02: Performance de Aluno
 
