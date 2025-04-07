@@ -27,3 +27,9 @@ Também resolvemos exercícios um pouco mais complexos, que exigiam raciocínio 
 Chegamos ao quarto dia com uma série de desafios interessantes. Tivemos que calcular a validade de uma carteira de motorista, verificar a nota de um aluno e retornar sua performance após a prova — tudo isso utilizando a condição ternária, uma alternativa mais simples e concisa ao tradicional if/else. No desafio seguinte, empregamos o comando switch para lidar com os diferentes estados de uma cancela de estacionamento.
 
 Por fim, desenvolvemos um código de ponto de venda, no qual foi necessário imprimir o valor final de um produto após a aplicação do desconto.
+
+**Dia 5** - Estrutura de Controle de Repetição (Loops)
+
+Tivemos quatro desafios neste dia. No primeiro, utilizamos o laço `for` para desenvolver uma aplicação financeira que calcula o rendimento de um investimento com juros de 12% ao ano. Em seguida, ainda com o `for`, criamos uma contagem regressiva para o lançamento de um foguete, com alertas especiais quando a contagem chegava a três ou menos.
+
+Depois, com o `while`, implementamos uma calculadora de juros compostos para descobrir em quantos anos nosso investimento dobraria de valor. Por fim, enfrentamos um desafio de abatimento de parcelas, que mostrava o valor restante até a quitação total de um produto.
