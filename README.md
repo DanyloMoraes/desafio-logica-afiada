@@ -33,3 +33,7 @@ Por fim, desenvolvemos um código de ponto de venda, no qual foi necessário imp
 Tivemos quatro desafios neste dia. No primeiro, utilizamos o laço `for` para desenvolver uma aplicação financeira que calcula o rendimento de um investimento com juros de 12% ao ano. Em seguida, ainda com o `for`, criamos uma contagem regressiva para o lançamento de um foguete, com alertas especiais quando a contagem chegava a três ou menos.
 
 Depois, com o `while`, implementamos uma calculadora de juros compostos para descobrir em quantos anos nosso investimento dobraria de valor. Por fim, enfrentamos um desafio de abatimento de parcelas, que mostrava o valor restante até a quitação total de um produto.
+
+**Dia 6** - Encaixotando Códigos com Funções e Procedimentos
+
+Neste dia, foram apresentados desafios envolvendo o uso de funções. Os três exercícios consistiam em revisitar desafios anteriores, agora com a aplicação de funções. Entre eles, estavam: a criação de uma calculadora de IMC, a reescrita de uma função que retorna o dia da semana por extenso, e o desenvolvimento de uma calculadora de aplicação financeira.
