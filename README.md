@@ -37,3 +37,7 @@ Depois, com o `while`, implementamos uma calculadora de juros compostos para des
 **Dia 6** - Encaixotando Códigos com Funções e Procedimentos
 
 Neste dia, foram apresentados desafios envolvendo o uso de funções. Os três exercícios consistiam em revisitar desafios anteriores, agora com a aplicação de funções. Entre eles, estavam: a criação de uma calculadora de IMC, a reescrita de uma função que retorna o dia da semana por extenso, e o desenvolvimento de uma calculadora de aplicação financeira.
+
+**Dia 7** - Super Desafio: Dividir Problemas em Uma Solução
+
+O Super Desafio do Dia 7 foi, de fato, à altura do nome. Nele, desenvolvemos diversas funções com responsabilidades bem definidas, como calcular o saldo total das contas, emitir alertas para contas sem saldo ou que estivessem utilizando o limite, além de implementar funcionalidades para depósitos, débitos e transferências entre contas. Também criamos funções para conversão de valores de Real para Dólar e, por fim, para exibir o limite disponível de cada conta.
