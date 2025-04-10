@@ -4,7 +4,7 @@
 
 Crie uma aplicação simples que simule a gestão de duas contas bancárias. Para isso, você precisará criar variáveis para controlar o saldo das contas e o limite de crédito.
 
-1. Calcular o saldo todal das contas.
+1. Calcular o saldo total das contas.
 2. Exibir um alerta se alguma conta estiver sem saldo ou utilizando o limite.
 3. Permitir depósitos em uma das contas.
 4. Permitir débitos em uma das contas.
