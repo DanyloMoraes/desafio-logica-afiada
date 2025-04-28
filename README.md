@@ -41,3 +41,9 @@ Neste dia, foram apresentados desafios envolvendo o uso de funções. Os três e
 **Dia 7** - Super Desafio: Dividir Problemas em Uma Solução
 
 O Super Desafio do Dia 7 foi, de fato, à altura do nome. Nele, desenvolvemos diversas funções com responsabilidades bem definidas, como calcular o saldo total das contas, emitir alertas para contas sem saldo ou que estivessem utilizando o limite, além de implementar funcionalidades para depósitos, débitos e transferências entre contas. Também criamos funções para conversão de valores de Real para Dólar e, por fim, para exibir o limite disponível de cada conta.
+
+## 2ª Semana do Desafio Lógica Afiada
+
+**Dia 8** - A Brincadeira Só Começa com Estrutura de Dados
+
+Fomos apresentados ao desafio de manipular arrays simulando o funcionamento de filas. Tivemos que desenvolver funções capazes de adicionar e remover elementos, criando assim um código que representasse uma fila de supermercado. Foi um desafio bastante complexo, pois era necessário inserir e retirar clientes dos arrays até que todos fossem atendidos.
