@@ -47,3 +47,7 @@ O Super Desafio do Dia 7 foi, de fato, à altura do nome. Nele, desenvolvemos di
 **Dia 8** - A Brincadeira Só Começa com Estrutura de Dados
 
 Fomos apresentados ao desafio de manipular arrays simulando o funcionamento de filas. Tivemos que desenvolver funções capazes de adicionar e remover elementos, criando assim um código que representasse uma fila de supermercado. Foi um desafio bastante complexo, pois era necessário inserir e retirar clientes dos arrays até que todos fossem atendidos.
+
+**Dia 9** - Super Poderes na Manipulação de Arrays
+
+No dia 9, recriei em JavaScript algumas funções úteis de Arrays que facilitam bastante o nosso dia a dia. As funções recriadas foram `indexOf()`, `lastIndexOf()` e `includes()`. Em seguida, no segundo desafio, trabalhei na recriação da função `slice()`, que é usada para extrair uma parte de um array sem modificá-lo. Ela retorna uma nova cópia contendo os elementos selecionados, a partir de índices especificados.
