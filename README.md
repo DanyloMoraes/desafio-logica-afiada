@@ -51,3 +51,13 @@ Fomos apresentados ao desafio de manipular arrays simulando o funcionamento de f
 **Dia 9** - Super Poderes na Manipulação de Arrays
 
 No dia 9, recriei em JavaScript algumas funções úteis de Arrays que facilitam bastante o nosso dia a dia. As funções recriadas foram `indexOf()`, `lastIndexOf()` e `includes()`. Em seguida, no segundo desafio, trabalhei na recriação da função `slice()`, que é usada para extrair uma parte de um array sem modificá-lo. Ela retorna uma nova cópia contendo os elementos selecionados, a partir de índices especificados.
+
+**Dia 10** - Como Empilhar Coisas te Ensina Sobre Estrutura de Dados
+
+Neste desafio, foi simulado o funcionamento de um braço mecânico automatizado em uma linha de produção. A principal tarefa do braço é empilhar produtos em caixas, obedecendo a um limite de até 10 produtos por caixa. O processo inclui:
+
+- Empilhar produtos: o braço retira um item da esteira e o coloca na caixa atual.
+- Controle de capacidade: antes de adicionar um novo produto, o sistema verifica se a caixa já está cheia.
+- Troca de caixa: ao atingir 10 produtos, a caixa é enviada para selagem e envio, e uma nova pilha (caixa) é iniciada.
+
+O desafio foi bastante complexo, pois explorou conceitos de controle de fluxo, estrutura de dados (como pilhas ou arrays), e automação de processos industriais.
