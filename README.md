@@ -65,3 +65,7 @@ O desafio foi bastante complexo, pois explorou conceitos de controle de fluxo, e
 **Dia 11** - Pilhas no Mundo Real
 
 No desafio do Dia 11, desenvolvi três funções — `navegarPara()`, `voltar()` e `avancar()` — que simulam a navegação entre páginas da web, armazenando de forma dinâmica o histórico de *voltar* e *avançar* em arrays.
+
+**Dia 12** - Filas do Mundo Real
+
+Neste desafio, criei funções para adicionar carros a uma fila de *Drive Through*, função para atender os carros removendo-os da fila, e por fim, a implementação de uma função que retorna a quantidade de veículos ainda aguardando atendimento. Fazer este desafio foi bastante simples e divertido.
