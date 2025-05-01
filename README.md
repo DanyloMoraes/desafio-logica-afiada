@@ -61,3 +61,7 @@ Neste desafio, foi simulado o funcionamento de um braço mecânico automatizado 
 - Troca de caixa: ao atingir 10 produtos, a caixa é enviada para selagem e envio, e uma nova pilha (caixa) é iniciada.
 
 O desafio foi bastante complexo, pois explorou conceitos de controle de fluxo, estrutura de dados (como pilhas ou arrays), e automação de processos industriais.
+
+**Dia 11** - Pilhas no Mundo Real
+
+No desafio do Dia 11, desenvolvi três funções — `navegarPara()`, `voltar()` e `avancar()` — que simulam a navegação entre páginas da web, armazenando de forma dinâmica o histórico de *voltar* e *avançar* em arrays.
