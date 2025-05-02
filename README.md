@@ -69,3 +69,7 @@ No desafio do Dia 11, desenvolvi três funções — `navegarPara()`, `voltar()`
 **Dia 12** - Filas do Mundo Real
 
 Neste desafio, criei funções para adicionar carros a uma fila de *Drive Through*, função para atender os carros removendo-os da fila, e por fim, a implementação de uma função que retorna a quantidade de veículos ainda aguardando atendimento. Fazer este desafio foi bastante simples e divertido.
+
+**Dia 13** - Desafios Desafiadores com Deques
+
+No desafio, continuei praticando o uso de arrays. Desenvolvi funções para inserir e remover tarefas tanto no início quanto no fim do array. Também criei funções para aumentar e diminuir a prioridade de uma tarefa. Embora a manipulação de arrays pareça simples à primeira vista, ela exige bastante atenção, especialmente em relação aos índices utilizados.
