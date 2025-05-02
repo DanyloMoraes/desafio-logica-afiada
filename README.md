@@ -73,3 +73,7 @@ Neste desafio, criei funções para adicionar carros a uma fila de *Drive Throug
 **Dia 13** - Desafios Desafiadores com Deques
 
 No desafio, continuei praticando o uso de arrays. Desenvolvi funções para inserir e remover tarefas tanto no início quanto no fim do array. Também criei funções para aumentar e diminuir a prioridade de uma tarefa. Embora a manipulação de arrays pareça simples à primeira vista, ela exige bastante atenção, especialmente em relação aos índices utilizados.
+
+**Dia 14** - Super Desafio de Estrutura de Dados
+
+No Super Desafio, criei funções que simulavam o atendimento em caixas de supermercado, utilizando novamente arrays. Essa atividade fez referência ao Dia 8, quando trabalhamos com filas de supermercado: adicionávamos clientes a um array, atendíamos cada um deles e exibíamos o estado atual das filas.
