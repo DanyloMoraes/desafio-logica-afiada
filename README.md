@@ -1,5 +1,7 @@
 # Desafio Lógica Afiada 21 Dias
 
+!["Header Desafio Lógica Afiada 21 dias"](/img/desafio-logica-afiada.jpeg)
+
 ## 1ª Semana do Desafio Lógica Afiada
 
 **Dia 1** - A Lógica de Programação e Como Usamos Ela Todos os Dias
