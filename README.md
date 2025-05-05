@@ -89,3 +89,7 @@ Aprender sobre listas encadeadas deu bastante trabalho. Elas são estruturas de 
 **Dia 16** - Desafio da Playlist de Música
 
 Este desafio foi bastante complexo, pois exigiu a criação de funções capazes de adicionar e remover músicas de um array, além de exibir todos os itens da playlist. Também foi necessário implementar funcionalidades para remover músicas específicas e retornar a playlist completa com o nome da música, o nome do artista e a duração de cada faixa.
+
+**Dia 17** - Ordenação: Organizando a Bagunça
+
+Utilizando o algoritmo `Selection Sort`, que ordena listas por meio de comparações e trocas simples, enfrentei o desafio de organizar uma lista de produtos contendo nomes e preços. A primeira função implementada ordena os produtos em ordem alfabética, enquanto a segunda os classifica por preço, do menor para o maior. Com o uso do `console.table()`, foi possível visualizar os dados de forma tabular diretamente no console do navegador, acessado ao pressionar a tecla `F12`.
