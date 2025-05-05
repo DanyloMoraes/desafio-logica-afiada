@@ -83,3 +83,7 @@ No Super Desafio, criei funções que simulavam o atendimento em caixas de super
 **Dia 15** - Lista Encadeada com Objeto Literal
 
 Aprender sobre listas encadeadas deu bastante trabalho. Elas são estruturas de dados lineares em que os elementos, chamados de nós, são armazenados de forma não contígua na memória. Desenvolvi seis funções: para inserir elementos no início e no fim da lista, inserir, deletar e buscar um elemento em uma posição específica, além de retornar todos os elementos da lista e localizar o índice de um determinado valor.
+
+**Dia 16** - Desafio da Playlist de Música
+
+Este desafio foi bastante complexo, pois exigiu a criação de funções capazes de adicionar e remover músicas de um array, além de exibir todos os itens da playlist. Também foi necessário implementar funcionalidades para remover músicas específicas e retornar a playlist completa com o nome da música, o nome do artista e a duração de cada faixa.
