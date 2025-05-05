@@ -77,3 +77,9 @@ No desafio, continuei praticando o uso de arrays. Desenvolvi funções para inse
 **Dia 14** - Super Desafio de Estrutura de Dados
 
 No Super Desafio, criei funções que simulavam o atendimento em caixas de supermercado, utilizando novamente arrays. Essa atividade fez referência ao Dia 8, quando trabalhamos com filas de supermercado: adicionávamos clientes a um array, atendíamos cada um deles e exibíamos o estado atual das filas.
+
+## 3ª Semana do Desafio Lógica Afiada
+
+**Dia 15** - Lista Encadeada com Objeto Literal
+
+Aprender sobre listas encadeadas deu bastante trabalho. Elas são estruturas de dados lineares em que os elementos, chamados de nós, são armazenados de forma não contígua na memória. Desenvolvi seis funções: para inserir elementos no início e no fim da lista, inserir, deletar e buscar um elemento em uma posição específica, além de retornar todos os elementos da lista e localizar o índice de um determinado valor.
