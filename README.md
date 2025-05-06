@@ -93,3 +93,7 @@ Este desafio foi bastante complexo, pois exigiu a criação de funções capazes
 **Dia 17** - Ordenação: Organizando a Bagunça
 
 Utilizando o algoritmo `Selection Sort`, que ordena listas por meio de comparações e trocas simples, enfrentei o desafio de organizar uma lista de produtos contendo nomes e preços. A primeira função implementada ordena os produtos em ordem alfabética, enquanto a segunda os classifica por preço, do menor para o maior. Com o uso do `console.table()`, foi possível visualizar os dados de forma tabular diretamente no console do navegador, acessado ao pressionar a tecla `F12`.
+
+**Dia 18** - Ordenando a Playlist de Música
+
+Neste desafio, retomamos a playlist de músicas desenvolvida no *Dia 16* e adicionamos duas novas funcionalidades essenciais: "ordenar a playlist pelo nome da música" utilizando o algoritmo `Bubble Sort`, e "ordenar por número de reproduções" com o algoritmo `Selection Sort`. Para tornar o resultado mais realista, aumentei a quantidade de músicas na playlist — que antes continha apenas três faixas, e agora conta com dez.
