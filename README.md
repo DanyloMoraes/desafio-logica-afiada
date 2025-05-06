@@ -97,3 +97,7 @@ Utilizando o algoritmo `Selection Sort`, que ordena listas por meio de comparaç
 **Dia 18** - Ordenando a Playlist de Música
 
 Neste desafio, retomamos a playlist de músicas desenvolvida no *Dia 16* e adicionamos duas novas funcionalidades essenciais: "ordenar a playlist pelo nome da música" utilizando o algoritmo `Bubble Sort`, e "ordenar por número de reproduções" com o algoritmo `Selection Sort`. Para tornar o resultado mais realista, aumentei a quantidade de músicas na playlist — que antes continha apenas três faixas, e agora conta com dez.
+
+**Dia 19** - Recursão ("Inception" na Estrutura de Dados)
+
+O desafio foi relativamente simples e consistiu no uso de `recursão` — uma técnica em que a função se chama repetidamente para resolver partes menores do problema — para calcular a soma de parcelas e subparcelas, retornando o valor total ao final.
