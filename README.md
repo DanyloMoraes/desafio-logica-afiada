@@ -109,3 +109,13 @@ Utilizei *Busca Binária* com *Recursividade* em ambos os desafios para compleme
 **Dia 21** - Super Desafio Final
 
 O último desafio foi, de fato, o mais complexo até agora. Foram necessárias muitas linhas de código *JavaScript* para alcançar o resultado desejado. Implementar, ainda que de forma fictícia, as funções de envia Pix e cancelar Pix foi um exercício desafiador, principalmente ao lidar com a simulação de transações e a exibição dos resultados no `console.log()` e `console.table()`. A proposta exigiu atenção aos detalhes e lógica bem estruturada, mas tornou-se uma experiência bastante divertida e enriquecedora ao final.
+
+!["Imagem do banner do canal Código Fonte TV no YouTube com Gabriel Fróes e Vanessa Weber, um casal de programadores"](/img/codigofontetv-banner.jpg)
+
+## CONCLUSÃO:
+
+Concluir todos os desafios foi uma experiência extremamente enriquecedora, que me ensinou a utilizar operadores, estruturas condicionais e funções complexas de forma mais eficiente e consciente. Ao longo do processo, compreendi a importância fundamental de dominar **Estruturas de Dados** — como filas, pilhas, listas encadeadas, algoritmos de ordenação, recursão, busca binária, entre outras — desde o início da jornada na programação. Esses conhecimentos não apenas fortalecem a base lógica do programador, mas são indispensáveis para resolver problemas reais com eficiência, clareza e desempenho.
+
+> "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam." – Martin Fowler
+
+[Código Fonte TV - YouTube](https://www.youtube.com/@codigofontetv)
