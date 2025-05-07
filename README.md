@@ -101,3 +101,7 @@ Neste desafio, retomamos a playlist de músicas desenvolvida no *Dia 16* e adici
 **Dia 19** - Recursão ("Inception" na Estrutura de Dados)
 
 O desafio foi relativamente simples e consistiu no uso de `recursão` — uma técnica em que a função se chama repetidamente para resolver partes menores do problema — para calcular a soma de parcelas e subparcelas, retornando o valor total ao final.
+
+**Dia 20** - Busca é a Mágica da Programação
+
+Utilizei *Busca Binária* com *Recursividade* em ambos os desafios para complementar os conhecimentos de *Lógica de Programação* e *Estrutura de Dados*, que foram bastante exigidos. A aplicação envolveu localizar um número ou nome específico em um array, ou retornar uma palavra específica dentro de um JSON contendo diversas informações.
