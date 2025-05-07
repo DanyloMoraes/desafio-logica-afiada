@@ -105,3 +105,7 @@ O desafio foi relativamente simples e consistiu no uso de `recursão` — uma t�
 **Dia 20** - Busca é a Mágica da Programação
 
 Utilizei *Busca Binária* com *Recursividade* em ambos os desafios para complementar os conhecimentos de *Lógica de Programação* e *Estrutura de Dados*, que foram bastante exigidos. A aplicação envolveu localizar um número ou nome específico em um array, ou retornar uma palavra específica dentro de um JSON contendo diversas informações.
+
+**Dia 21** - Super Desafio Final
+
+O último desafio foi, de fato, o mais complexo até agora. Foram necessárias muitas linhas de código *JavaScript* para alcançar o resultado desejado. Implementar, ainda que de forma fictícia, as funções de envia Pix e cancelar Pix foi um exercício desafiador, principalmente ao lidar com a simulação de transações e a exibição dos resultados no `console.log()` e `console.table()`. A proposta exigiu atenção aos detalhes e lógica bem estruturada, mas tornou-se uma experiência bastante divertida e enriquecedora ao final.
