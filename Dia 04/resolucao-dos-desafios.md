@@ -47,15 +47,15 @@ let notaDoAluno = 8.5
 let resultado;
 
 // Verifica a nota do aluno
-if (notaDaProva < 5) {
+if (notaDoAluno < 5) {
     resultado = "Insuficiente";
-} else if (notaDaProva < 6) {
+} else if (notaDoAluno < 6) {
     resultado = "Regular";
-} else if (notaDaProva < 7.5) {
+} else if (notaDoAluno < 7.5) {
     resultado = "Bom";
-} else if (notaDaProva < 9) {
+} else if (notaDoAluno < 9) {
     resultado = "Muito Bom";
-} else if (notaDaProva >= 9) {
+} else if (notaDoAluno >= 9) {
     resultado = "Excelente";
 }
 
