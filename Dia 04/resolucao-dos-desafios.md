@@ -155,7 +155,7 @@ O desconto é dado com base no tipo do produto:
 - Se o tipo do produto não estiver na lista, não há desconto;
 
 ```js
-let nomeProduto = 'SmartTV A360';
+let nomeProduto = 'Smart TV A360';
 let tipoDoProduto = 'Eletrônicos';
 let valorProduto = 1299;
 let descontoPorTipo;
